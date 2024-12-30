@@ -5,5 +5,9 @@
   "main": "index.js",
   "repository": "git@github.com:chaudard/boilerplateReact.git",
   "author": "Michel Dany",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
 }
